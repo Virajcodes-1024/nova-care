@@ -1,0 +1,11 @@
+node_modules
+dist
+.python-deps
+.venv
+pnpm-lock.yaml
+backend
+*.db
+test-results
+playwright-report
+.pnpm-store
+.browsers

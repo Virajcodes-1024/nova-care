@@ -1,0 +1,65 @@
+{
+  "durationSeconds": 115,
+  "chapters": [
+    {
+      "seconds": 18,
+      "text": "NOVA Care: fictional family data, local workflows, people in control."
+    },
+    {
+      "seconds": 25,
+      "text": "Start with a natural-language request to coordinate the evening routine."
+    },
+    {
+      "seconds": 32,
+      "text": "PLAN: the backend retrieves records and prioritizes actual pending tasks."
+    },
+    {
+      "seconds": 39,
+      "text": "VERIFY: inspect the rule and follow its supporting task record."
+    },
+    {
+      "seconds": 47,
+      "text": "The high-priority evening check-in remains pending in SQLite."
+    },
+    {
+      "seconds": 52,
+      "text": "Events are simulated. An unavailable sensor means unknown state, never proof of safety."
+    },
+    {
+      "seconds": 59,
+      "text": "ASK: review the draft, evidence and effect. No delivery has occurred yet."
+    },
+    {
+      "seconds": 67,
+      "text": "Explicit approval allows one local simulated inbox delivery. No real message is sent."
+    },
+    {
+      "seconds": 72,
+      "text": "PROVE: the backend verifies a persisted inbox record before reporting completion."
+    },
+    {
+      "seconds": 79,
+      "text": "Reloading preserves the result. Repeated approval cannot duplicate the delivery."
+    },
+    {
+      "seconds": 85,
+      "text": "The ledger records approved, executing and completed as separate outcomes."
+    },
+    {
+      "seconds": 93,
+      "text": "Missing-data scenario: NOVA states the limitation instead of claiming security."
+    },
+    {
+      "seconds": 100,
+      "text": "Rejecting the second update prevents execution and persists the decision."
+    },
+    {
+      "seconds": 107,
+      "text": "Runs locally without AWS, paid APIs, hardware or an external language model."
+    }
+  ],
+  "browserErrors": [],
+  "format": "WebM",
+  "audio": "No audio; explanatory captions are included.",
+  "data": "Separate recording.db; existing nova.db unchanged."
+}
