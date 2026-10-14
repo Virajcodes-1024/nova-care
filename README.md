@@ -18,7 +18,7 @@ All household data and device events are fictional and visibly simulated. A comp
 
 Repository: https://github.com/Virajcodes-1024/nova-care
 
-This is a private, rights-reserved repository, not an open-source release. Before submitting, grant required reviewers access through GitHub Settings → Collaborators following the current official rules: https://amazonappdev2026.devpost.com/rules
+This repository is public and accessible without signing in. It remains rights-reserved, not an open-source release. The hackathon public-repository route requires an open-source license; the current rights-reserved license does not satisfy that requirement. Resolve the license choice before final submission using the official rules: https://amazonappdev2026.devpost.com/rules
 
 Reviewer invitations and Devpost submission are not performed by this project.
 
