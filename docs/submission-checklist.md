@@ -10,7 +10,7 @@ Alexa+ **simulated web experience**, using a local deterministic tool orchestrat
 
 - Register for the hackathon and confirm individual/team eligibility.
 - Identify Alexa+ as the primary track. Do not claim AWS Builder; this code uses no AWS.
-- Create/share the GitHub repository with all source, assets, license, installation and test instructions. The source is prepared for the private NOVA Care GitHub repository linked in README.md.
+- Create/share the GitHub repository with all source, assets, license, installation and test instructions. The public GitHub repository linked in README.md includes the root MIT LICENSE, source, assets, documentation and local run instructions.
 - Either publish an open-source repository with a detectable license, or share a private repository with the specified reviewer accounts. Copy the current reviewer list from the rules when doing that step.
 - Supply an English description of the problem, solution, functionality and simulation boundaries.
 - Record the actual running app, including real code behavior and visible simulation labeling. Keep the video **under three minutes** and upload it publicly to YouTube or Vimeo. A real captioned MP4 is included; public video upload remains a submission step.
@@ -21,4 +21,4 @@ Alexa+ **simulated web experience**, using a local deterministic tool orchestrat
 
 ## Readiness
 
-Included: local code, fictional sample data, tests, docs, original logo, rights-reserved copyright notice, screenshots, scenario instructions and video script. Remaining external steps: repository publication/access setup, user/team eligibility review, recording/upload, and Devpost submission. No collaborators were messaged and no submission was filed.
+Included: local code, fictional sample data, tests, docs, original logo, MIT license with Viraj Gundewar copyright attribution, screenshots, scenario instructions and video script. Remaining external steps: submission form link verification, user/team eligibility review, recording/upload, and Devpost submission. No collaborators were messaged and no submission was filed.

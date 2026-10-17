@@ -4,7 +4,7 @@ Notice. Organize. Verify. Act.
 
 Created by Viraj Gundewar for the Amazon Developer Hackathon: Build, Ship, Shape — Alexa+ simulated experience track.
 
-Copyright (c) 2026 Viraj Gundewar. All rights reserved by Viraj Gundewar.
+Copyright (c) 2026 Viraj Gundewar. Licensed under the MIT License.
 
 This repository contains the source code, documentation, tests, screenshots and demo recording. It is for local execution and hackathon evaluation. No website hosting, GitHub Pages or cloud deployment is configured.
 
@@ -18,7 +18,7 @@ All household data and device events are fictional and visibly simulated. A comp
 
 Repository: https://github.com/Virajcodes-1024/nova-care
 
-This repository is public and accessible without signing in. It remains rights-reserved, not an open-source release. The hackathon public-repository route requires an open-source license; the current rights-reserved license does not satisfy that requirement. Resolve the license choice before final submission using the official rules: https://amazonappdev2026.devpost.com/rules
+This repository is public, open source under the MIT License, and accessible without signing in. GitHub detects the root LICENSE file as MIT. The application runs locally without a login, API key, paid service or physical device. Follow the installation and startup instructions below. Official hackathon rules: https://amazonappdev2026.devpost.com/rules
 
 Reviewer invitations and Devpost submission are not performed by this project.
 
@@ -199,9 +199,9 @@ This is the alternate Alexa+ simulated web experience, with a deterministic loca
 
 Intent routing supports the documented request classes. Results appear after synchronous execution, not streamed fake progress. This is a fictional single-household, single-user demonstration without authentication, medical guidance, security certification or a tamper-proof ledger. Do not use real sensitive household data or expose the backend to the internet.
 
-## Copyright and evaluation permission
+## License and copyright
 
 Copyright (c) 2026 Viraj Gundewar.
-All rights reserved by Viraj Gundewar.
+Released under the MIT License.
 
-See [LICENSE](LICENSE) for ownership and authorized hackathon evaluation permission. Third-party dependencies remain subject to their respective licenses; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). No live Amazon endorsement or integration is claimed.
+See [LICENSE](LICENSE) for the full MIT open-source license. The license permits use, modification and distribution subject to retaining its copyright and permission notices. Third-party dependencies remain subject to their respective licenses; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). No live Amazon endorsement or integration is claimed.

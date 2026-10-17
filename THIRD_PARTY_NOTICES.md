@@ -1,6 +1,6 @@
 # Third-party notices
 
-Original NOVA Care materials: Copyright (c) 2026 Viraj Gundewar. All rights reserved by Viraj Gundewar. Third-party dependencies retain their own licenses; see their distribution license texts for complete terms and transitive notices.
+Original NOVA Care materials: Copyright (c) 2026 Viraj Gundewar. Licensed under the MIT License. Third-party dependencies retain their own licenses; see their distribution license texts for complete terms and transitive notices.
 
 | Package                   | Version | License    |
 | ------------------------- | ------- | ---------- |

@@ -45,7 +45,7 @@
     "prettier": "^3.5.0"
   },
   "author": "Viraj Gundewar",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/Virajcodes-1024/nova-care.git"
